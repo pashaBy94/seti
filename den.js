@@ -3,3 +3,4 @@ let b = 5;
 console.log(a,b);
 let d = a + b;
 console.log(d);
+console.log(33);
